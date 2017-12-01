@@ -1,0 +1,3 @@
+{{ object.name }}  # 根据商品的名字创建索引
+{{ object.desc }}  # 根据商品的描述
+{{ object.detail }}  # 根据商品的详情

@@ -1,0 +1,13 @@
+*** Starting uWSGI 2.0.15 (64bit) on [Wed Nov  1 22:36:28 2017] ***
+compiled with version: 5.4.0 20160609 on 01 November 2017 22:34:12
+os: Linux-4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/python/Desktop/pytest/dailyfresh
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/py3_django/bin/uwsgi
+chdir() to /home/python/Desktop/pytest/test6
+chdir(): No such file or directory [core/uwsgi.c line 2591]
